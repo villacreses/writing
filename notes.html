@@ -1,0 +1,22 @@
+---
+layout: feature
+title: Notes
+permalink: /notes
+style_src: notes
+meta_description: >
+  A collection of my short-form writing, including quick thoughts, brief insights, and observations that don’t require a full article.
+heading_description: >
+  This page collects my short-form writing—quick thoughts, brief insights, and observations that don’t require a full article. Expect 
+  bite-sized commentary, passing ideas, reflections, and occasional updates—concise yet meaningful, whether sharing event itineraries 
+  or moments worth noting
+---
+<ul>
+  {%- for note in site.notes -%}
+  <li>
+    <time datetime="{{ note.date | date_to_xmlschema }}" class="prose">{{ note.date | date: "%Y-%m-%d" }}</time>
+    <a href="{{ note.url | relative_url }}" class="note-link">
+      <span>{{ note.title }}</span>
+    </a>
+  </li>
+  {%- endfor -%}
+</ul>
