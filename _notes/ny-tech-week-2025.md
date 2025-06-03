@@ -10,7 +10,8 @@ date: 2025-06-01
 ##### Tuesday 
 
 - [Brooklyn Tech Expo](https://lu.ma/pe17h9z9) 
-- [DEATH OF A JOB & The #FutureofWork: A Live Book Experience + Q&A with Futurist Mike Johns & Friends]()
+
+- [DEATH OF A JOB & The #FutureofWork: A Live Book Experience + Q&A with Futurist Mike Johns & Friends](https://partiful.com/e/4Ba6LSIqSyaNDh3I0OR6) 
 ##### Wednesday 
 
 - [New York Minute Hackathon - Fintech, Life Sciences, Security & Defense](https://lu.ma/0gf802m3?tk=4bFWI1)
