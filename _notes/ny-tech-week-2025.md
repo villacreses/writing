@@ -16,7 +16,7 @@ date: 2025-06-01
 
 - [New York Minute Hackathon - Fintech, Life Sciences, Security & Defense](https://lu.ma/0gf802m3?tk=4bFWI1)
 
-- [MCP Hackathon Happy Hour](https://partiful.com/e/vBtGgC3WurF9XDq0jxtO)
+- ~~[MCP Hackathon Happy Hour](https://partiful.com/e/vBtGgC3WurF9XDq0jxtO)~~ Hosts changed event times, couldn't go due to schedule conflicts 
 
 ##### Thursday 
 
@@ -24,5 +24,4 @@ date: 2025-06-01
 
 ##### Friday 
 - [Vapi x AssemblyAI NYC Voice Agent Hackathon](https://partiful.com/e/dX9OkgFK32u9TC5iwaw9)
-- [Musa Labs Hackathon](https://partiful.com/e/vOQ305jM3tokj9RWeQRL) (Friday evening through Sunday afternoon)
-
+- ~~[Musa Labs Hackathon](https://partiful.com/e/vOQ305jM3tokj9RWeQRL)~~ Event was cancelled by organizer 
