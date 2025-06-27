@@ -12,6 +12,7 @@ date: 2025-06-01
 - [Brooklyn Tech Expo](https://lu.ma/pe17h9z9) 
 
 - [AI/ML Conversations: When AI beats Physics](https://meetu.ps/e/NSMYM/11sPK1/i)
+
 ##### Wednesday 
 
 - [New York Minute Hackathon - Fintech, Life Sciences, Security & Defense](https://lu.ma/0gf802m3?tk=4bFWI1)
