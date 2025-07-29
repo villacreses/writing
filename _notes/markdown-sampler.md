@@ -59,30 +59,24 @@ And here's a code block:
   }
 ```
 
-<mv-callout type="note">
-<div markdown="1">
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed ac orci lobortis, ornare arcu nec, vestibulum lectus. Maecenas vel sapien leo. 
-
-Vestibulum accumsan urna non ipsum posuere finibus. Praesent augue ante, feugiat nec pulvinar sed, luctus ut ligula. Praesent dignissim nisl justo, sit amet pulvinar ex ultrices at.
-</div>
-</mv-callout>
+> [!NOTE]
+> **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed ac orci lobortis, ornare arcu nec, vestibulum lectus. Maecenas vel sapien leo. 
+>
+> Vestibulum accumsan urna non ipsum posuere finibus. Praesent augue ante, feugiat nec pulvinar sed, luctus ut ligula. Praesent dignissim nisl justo, sit amet pulvinar ex ultrices at.
 
 
-<mv-callout type="tip">
-  Just a test of a callout.
-</mv-callout>
 
-<mv-callout type="warning">
-  Just a test of a callout.
-</mv-callout>
+> [!TIP]
+> Just a test of a callout.
 
-<mv-callout type="important">
-  Just a test of a callout.
-</mv-callout>
+> [!WARNING]
+>  Just a test of a callout.
 
-<mv-callout type="caution">
-  Just a test of a callout.
-</mv-callout>
+> [!IMPORTANT]
+> Just a test of a callout.
+
+> [!CAUTION]
+> Just a test of a callout.
 
 Here's a definition list:
 
@@ -92,11 +86,12 @@ term 1
 term 2
 : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac orci lobortis, ornare arcu nec, vestibulum lectus. Maecenas vel sapien leo.
 
-Here's a table
+Here's a table:
 
-{: .standard }
 | Header 1 | Header 2 | Header 3 |
 |:---------|:---------|:---------|
 | cell 1   |  cell 2  |  cell 3  |
 
-[^1]: Yeah this is it
+{ .standard }
+
+[^1]: Yeah this is a footnote.
